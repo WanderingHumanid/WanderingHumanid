@@ -49,9 +49,6 @@ An intelligent learning platform designed to personalize educational content and
 ### [🎮 FamiliQuest](https://github.com/WanderingHumanid/familiquest)  
 A chore and habit management app that uses light gamification to help families build healthy routines and shared accountability.
 
-### [🏨 Hotel Room Booking](https://github.com/WanderingHumanid/hotel-room-booking)  
-A full-stack web application for hotel room booking with a modern React frontend and Django REST API backend.
-
 ### [📈 FloodCast-DL-BackEnd](https://github.com/WanderingHumanid/FloodCast-DL-BackEnd)  
 An enhanced version of FloodCast utilizing LSTM for time-series forecasting to predict flood events.
 
