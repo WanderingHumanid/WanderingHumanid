@@ -1,68 +1,107 @@
-# 👋 Hi, I'm Sreeram K L (WanderingHumanid)
+<div align="center">
 
-🚀 **Computer Science student | Open Source Enthusiast**
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=180&section=header&text=Sreeram%20K%20L&fontSize=80&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20Creative%20Builder&descAlignY=72&descSize=20)
 
-I'm passionate about building impactful applications that bridge technology with real-world challenges. My projects span across various domains, including education, disaster management, family engagement, and hospitality.
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Architectures...;Crafting+Immersive+User+Experiences...;Engineering+Next-Gen+Solutions...;Exploring+Blockchain+and+GenAI...)](https://git.io/typing-svg)
 
-## 🛠 Technologies & Tools
+<br/>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://linkedin.com/in/sreeram-kollara">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sreeramkollara123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://sreeram-kollara.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+</div>
 
-### 🗄 Databases & Data Storage
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚡ The Blueprint (Tech Stack)
 
-### 🔍 Others
-![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-FF6600?style=for-the-badge)
+<div align="center">
 
-## 📂 Featured Projects
+| **Frontend** | **Backend** | **Mobile & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,ts&perline=5" /> | <img src="https://skillicons.dev/icons?i=python,java,django,flask,spring,mysql,postgres&perline=7" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,git,docker,linux&perline=5" /> |
 
-### [🌊 FloodCast](https://github.com/WanderingHumanid/floodcast)  
-A disaster management tool that leverages data to predict flood events and help communities prepare in advance.
-
-### [📚 IntelliLearn](https://github.com/WanderingHumanid/IntelliLearn)  
-An intelligent learning platform designed to personalize educational content and optimize learning paths for users.
-
-### [🎮 FamiliQuest](https://github.com/WanderingHumanid/familiquest)  
-A chore and habit management app that uses light gamification to help families build healthy routines and shared accountability.
-
-### [📈 FloodCast-DL-BackEnd](https://github.com/WanderingHumanid/FloodCast-DL-BackEnd)  
-An enhanced version of FloodCast utilizing LSTM for time-series forecasting to predict flood events.
+</div>
 
 ---
 
-## 📫 Get in Touch
+### 🏆 The Trophy Cabinet (Hackathons)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreeram-kollara/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeramkollara123@gmail.com)
+| Rank | Event | Project | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| 🥉 **3rd Place** | **Game of Life 2025** | [**FamiliQuest**](https://github.com/WanderingHumanid) | `React` `Flask` `SQLite` |
+| 🏅 **4th Place** | **Yudhya 26** | [**TechnoCare**](https://github.com/THEJAS-KRISHNA-P-R/tvm-technocrats) | `Flutter` `Pathfinding` |
+| 🥈 **2nd Place** | **UI2CODE** | Frontend Challenge | `React` `CSS3` |
+| 🚀 **Finalist** | **Vitals 24** | [**FloodCast**](https://github.com/WanderingHumanid) | `Next.js` `XGBoost` `Mapbox` |
 
 ---
 
-## 🌍 My FOSS Philosophy
+### 🛠️ Featured Projects
 
-I believe in building and sharing software that empowers everyone. Free and open source tools foster collaboration, innovation, and accessibility — breaking barriers to learning and creating. Every contribution, no matter how small, helps build a more inclusive and sustainable tech community.
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌊 FloodCast</h3>
+      <p align="center"><strong>Hyperlocal Flood Prediction System</strong></p>
+      <p align="center">
+        A 3D geospatial dashboard forecasting flood risks using XGBoost and NASA datasets.
+        <br/>
+        <code>Next.js</code> <code>Mapbox GL</code> <code>XGBoost</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 TechnoCare</h3>
+      <p align="center"><strong>Intelligent Hospital Navigation</strong></p>
+      <p align="center">
+        Multi-floor navigation app with 24+ nodes and a glassmorphic medical UI.
+        <br/>
+        <code>Flutter</code> <code>Dart</code> <code>Pathfinding</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 IntelliLearn</h3>
+      <p align="center"><strong>AI Educational Roadmap Generator</strong></p>
+      <p align="center">
+        GenAI platform creating custom learning paths using Llama 3.2 & Mistral.
+        <br/>
+        <code>Flask</code> <code>Llama 3.2</code> <code>Mermaid.js</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 GigStream</h3>
+      <p align="center"><strong>Decentralized Micro-Pension Platform</strong></p>
+      <p align="center">
+        DeFi solution for gig workers bridging React UI with blockchain smart contracts.
+        <br/>
+        <code>React</code> <code>Solidity</code> <code>Python (Flask)</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Sreeram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WanderingHumanid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderingHumanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=50&section=footer" width="100%"/>
+</div>
