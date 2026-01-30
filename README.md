@@ -41,7 +41,7 @@
 | 🥉 **3rd Place** | **Game of Life 2025** | [**FamiliQuest**](https://github.com/WanderingHumanid) | `React` `Flask` `SQLite` |
 | 🏅 **4th Place** | **Yudhya 26** | [**TechnoCare**](https://github.com/THEJAS-KRISHNA-P-R/tvm-technocrats) | `Flutter` `Pathfinding` |
 | 🥈 **2nd Place** | **UI2CODE** | Frontend Challenge | `React` `CSS3` |
-| 🚀 **Finalist** | **Vitals 24** | [**FloodCast**](https://github.com/WanderingHumanid) | `Next.js` `XGBoost` `Mapbox` |
+| 🚀 **Featured** | **Vitals 24** | [**FloodCast**](https://github.com/WanderingHumanid) | `Next.js` `XGBoost` `Mapbox` |
 
 ---
 
@@ -95,12 +95,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Sreeram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WanderingHumanid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderingHumanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WanderingHumanid&theme=tokyonight" alt="Contribution Graph" />
+  
 </div>
+
+<br/>
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=50&section=footer" width="100%"/>
