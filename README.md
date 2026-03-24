@@ -32,19 +32,6 @@
 
 </div>
 
----
-
-### 🏆 The Trophy Cabinet (Hackathons)
-
-| Rank | Event | Project | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| 🥉 **3rd Place** | **Game of Life 2025** | [**FamiliQuest**](https://github.com/WanderingHumanid) | `React` `Flask` `SQLite` |
-| 🏅 **4th Place** | **Yudhya 26** | [**TechnoCare**](https://github.com/THEJAS-KRISHNA-P-R/tvm-technocrats) | `Flutter` `Pathfinding` |
-| 🥈 **2nd Place** | **UI2CODE** | Frontend Challenge | `React` `CSS3` |
-| 🚀 **Featured** | **Vitals 24** | [**FloodCast**](https://github.com/WanderingHumanid) | `Next.js` `XGBoost` `Mapbox` |
-
----
-
 ### 🛠️ Featured Projects
 
 <table width="100%">
