@@ -87,8 +87,8 @@
   
 </div>
 
+
 <br/>
 
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=50&section=footer" width="100%"/>
-</div>
+## My Top Contributors
+![Top Contributors](https://top-contributors-api-ten.vercel.app/api/contributors?limit=3&size=50)
